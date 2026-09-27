@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Màu cho bài nâng cao NC3 -->
+    <color name="bmi_under">#1976D2</color>  <!-- Xanh dương: Thiếu cân -->
+    <color name="bmi_normal">#388E3C</color> <!-- Xanh lá: Bình thường -->
+    <color name="bmi_over">#FBC02D</color>   <!-- Vàng đậm: Thừa cân -->
+    <color name="bmi_obese">#D32F2F</color>  <!-- Đỏ: Béo phì -->
+</resources>
