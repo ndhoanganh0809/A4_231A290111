@@ -13,7 +13,7 @@
     <string name="op_div">÷</string>
     <string name="clear">Xóa trắng</string>
     <string name="result_placeholder">Kết quả: —</string>
-    <string name="history_placeholder">Lịch sử (5 phép tính gần nhất):\nChưa có phép tính nào.</string>
+    <string name="history_placeholder">"Lịch sử (5 phép tính gần nhất):\nChưa có phép tính nào."</string>
     <string name="hint_weight">Cân nặng (kg)</string>
     <string name="hint_height">Chiều cao (m hoặc cm)</string>
     <string name="calc_bmi">Tính BMI</string>
